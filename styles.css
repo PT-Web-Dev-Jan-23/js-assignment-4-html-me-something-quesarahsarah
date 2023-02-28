@@ -1,1 +1,30 @@
-/* Write your CSS here! */
+header{  
+        font-family: 'Georgia';
+        font-size: 28px;
+}
+#mainHeading {
+  
+    font-family: 'Georgia';
+    font-size: 48px;
+    color: red;
+}
+body{
+    margin: 8px;
+}
+#curedMeatBody{
+    font-family: 'Helvetica';
+}
+
+
+h2{
+    font-family: 'Georgia';
+    font-size: 28px;
+}
+
+h3{
+    font-family: 'Georgia';
+    font-size: 24px;
+}
+p.funParagraph{
+    color: green;
+}
